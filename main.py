@@ -1,5 +1,5 @@
 #Muhammad Ali
-#30 Novemeber 2023
+#30 Novemeber 2023   
 # 1
 # calculates the number of factors
 # def numFactors(num):    #defining the function
